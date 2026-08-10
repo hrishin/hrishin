@@ -12,6 +12,7 @@ Recently my interest has grown significantly toward building systems for low lat
 - **Kubernetes engineering**
 - **GPU & AI infrastructure**
 - **HPC and Low-latency systems**
+- **SRE**
 
  
 ### Projects
