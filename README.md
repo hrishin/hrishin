@@ -1,7 +1,7 @@
 
 ## Hi, I'm Hrishi 👋
  
-Seasoned engineer passionate about solving infrastructure and operations problems using distributed systems. Keen on building sustainable solutions and systems scale to any degree using technologies spanning Linux, Kubernetes deployed on-prem(baremetal, virtulized env) and cloud.
+Seasoned engineer passionate about solving infrastructure and operations problems using distributed systems. Keen on building sustainable solutions and systems scale to any degree using technologies spanning Linux, Kubernetes deployed on-prem(bare metal, virtualized env) and cloud.
 
 Recently my interest has grown significantly toward building systems for low latency trading, HPC systems for the quantitative research/ML/LLM training/Inferenceing and general performance engineering.
 
