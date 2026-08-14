@@ -26,7 +26,7 @@ Recently my interest has grown significantly toward building systems for low lat
 ### Community
  
 - 🎤 Past Speaker at **DevConf.CZ**
-- 🧑‍🤝‍🧑 Past Co-organiser of the **Kubernetes Bangalore** meetup
+- 🧑‍🤝‍🧑 Past Speaker & Co-organiser of the **Kubernetes Bangalore** meetup
 - 🛠 Contributor to **Kubernetes** and **Tekton Pipelines**
 
 ### Elsewhere
